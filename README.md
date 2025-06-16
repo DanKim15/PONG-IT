@@ -1,6 +1,7 @@
 # Ping Pong Ball Shooter
 
 A 3D-printed, Raspberry Pi–controlled ping pong ball shooter with flywheel spin, magnetic-encoder aiming, and a custom Tkinter GUI. See the demonstration video on YouTube: https://youtu.be/6qED_lX59yo?si=dJPwoOmIh94nCSA-
+
 ![|Picture of Device](https://github.com/DanKim15/PONG-IT/blob/main/Picture%20of%20Device.jpg)
 
 
@@ -28,7 +29,8 @@ This project implements a self-aiming ping pong ball shooter using:
 
 - **YouTube Demo:** [https://youtu.be/6qED_lX59yo?si=-5KMxGFBELn92zxb]  
 - **OnShape CAD Model:** https://cad.onshape.com/documents/6284113ff0cfee7787d51cfc/w/e9bffdcc590bac75b9c03533/e/c320a9cfb7af32c09532333c?renderMode=0&uiState=685062f9a8103e3bf1df482c
-  [|Picture of CAD](https://github.com/DanKim15/PONG-IT/blob/main/Screenshot%20of%20CAD.png)
+  
+  ![|Picture of CAD](https://github.com/DanKim15/PONG-IT/blob/main/Screenshot%20of%20CAD.png)
 
 
 ## How It Works
