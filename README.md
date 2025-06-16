@@ -1,7 +1,7 @@
 # Ping Pong Ball Shooter
 
 A 3D-printed, Raspberry Pi–controlled ping pong ball shooter with flywheel spin, magnetic-encoder aiming, and a custom Tkinter GUI. See the demonstration video on YouTube: https://youtu.be/6qED_lX59yo?si=dJPwoOmIh94nCSA-
-![|Picture of Device](https://github.com/DanKim15/PONG-IT/)
+![|Picture of Device](https://github.com/DanKim15/PONG-IT/blob/main/Picture%20of%20Device.jpg)
 
 
 
@@ -26,12 +26,10 @@ This project implements a self-aiming ping pong ball shooter using:
 
 ## Links
 
-- **YouTube Demo:** [https://youtu.be/YOUR_VIDEO_ID_HERE](https://youtu.be/6qED_lX59yo?si=-5KMxGFBELn92zxb)  
-- **OnShape CAD Model:** https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0FyWllmVkNRczBnZXQybXpPdmpOWGM4RGZsQXxBQ3Jtc0trbXpUdVF5V2xnOVlZRWR1UFJkUWx2dy1BOGgwOUhqWURfd3kyS0dJYnk4UW0wbFpWZmY4YlBuV19majJmT25oQWZPT1o5UjljbDhKSHFIbFJ1azFkNzc1b0ZCTXJhMTBpdDFXal9pMUtWbkxERGw4QQ&q=https%3A%2F%2Fcad.onshape.com%2Fdocuments%2F6284113ff0cfee7787d51cfc%2Fw%2Fe9bffdcc590bac75b9c03533%2Fe%2Fc320a9cfb7af32c09532333c&v=6qED_lX59yo
-  [|Picture of CAD](https://github.com/DanKim15/PONG-IT/)
+- **YouTube Demo:** [https://youtu.be/6qED_lX59yo?si=-5KMxGFBELn92zxb]  
+- **OnShape CAD Model:** https://cad.onshape.com/documents/6284113ff0cfee7787d51cfc/w/e9bffdcc590bac75b9c03533/e/c320a9cfb7af32c09532333c?renderMode=0&uiState=685062f9a8103e3bf1df482c
+  [|Picture of CAD](https://github.com/DanKim15/PONG-IT/blob/main/Screenshot%20of%20CAD.png)
 
-  
-- **CAD Model** [Download CAD Files](CAD_MODEL_LINK_HERE)  
 
 ## How It Works
 
